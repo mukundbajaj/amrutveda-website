@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/mukundbajaj/Projects/Amrutveda-Website/public)",
+      "Bash(cp /Users/mukundbajaj/Projects/Amrutveda-Website/*.jpeg /Users/mukundbajaj/Projects/Amrutveda-Website/public/)",
+      "Bash(open:*)"
+    ]
+  }
+}
